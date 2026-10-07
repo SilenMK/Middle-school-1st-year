@@ -1,1 +1,1 @@
-Everything in this file is just for 1st year at SPSE Zatec middle school.
+Everything in this file is just for the 1st year at SPŠE Žatec secondary school.
